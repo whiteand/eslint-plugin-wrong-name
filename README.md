@@ -1,5 +1,7 @@
 # eslint-plugin-wrong-name
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/whiteand/eslint-plugin-wrong-name.svg)](https://greenkeeper.io/)
+
 Any name that match the pattern will be treated as an error.
 
 For example:
